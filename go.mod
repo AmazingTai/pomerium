@@ -18,7 +18,7 @@ require (
 	github.com/google/go-jsonnet v0.15.0
 	github.com/google/uuid v1.1.1
 	github.com/gorilla/mux v1.7.4
-	github.com/gorilla/websocket v1.4.0
+	github.com/gorilla/websocket v1.4.2
 	github.com/mitchellh/hashstructure v1.0.0
 	github.com/onsi/ginkgo v1.11.0 // indirect
 	github.com/onsi/gocleanup v0.0.0-20140331211545-c1a5478700b5
@@ -38,7 +38,7 @@ require (
 	github.com/spf13/cast v1.3.1 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/spf13/viper v1.6.3
+	github.com/spf13/viper v1.7.0
 	github.com/stretchr/testify v1.5.1
 	github.com/uber/jaeger-client-go v2.20.1+incompatible // indirect
 	go.etcd.io/bbolt v1.3.4
